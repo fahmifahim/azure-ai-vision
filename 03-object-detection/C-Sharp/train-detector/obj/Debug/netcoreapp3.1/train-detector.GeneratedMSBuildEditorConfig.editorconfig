@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = train_detector
+build_property.ProjectDir = c:\Users\azureuser\OneDrive\Desktop\mslearn-ai-vision\Labfiles\03-object-detection\C-Sharp\train-detector\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
